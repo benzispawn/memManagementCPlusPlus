@@ -1,0 +1,4 @@
+"/Users/rbenzi/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/212.4746.93/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/rbenzi/Documents/C++/Udacity_projects/CppND-Memory-Management-Chatbot
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rbenzi/Documents/C++/Udacity_projects/CppND-Memory-Management-Chatbot/cmake-build-debug
